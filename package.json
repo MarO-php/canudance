@@ -1,1 +1,27 @@
-{\n  "name":"canudance-site",\n  "version":"1.0.0",\n  "private":true,\n  "scripts":{"dev":"next dev","build":"next build","start":"next start","lint":"next lint"},\n  "dependencies":{"@react-three/drei":"latest","@react-three/fiber":"latest","@types/node":"latest","@types/react":"latest","@types/react-dom":"latest","next":"latest","react":"19.2.0","react-dom":"19.2.0","three":"latest"},\n  "devDependencies":{"typescript":"latest","eslint":"latest","eslint-config-next":"latest"}\n}\n
+{
+  "name": "canudance-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "latest",
+    "@react-three/fiber": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "next": "latest",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "three": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  }
+}

@@ -1,0 +1,8 @@
+/* TEAM */
+Brand: CANUDANCE
+Location: Marrakech, Morocco
+Website: https://canudance.com
+Instagram: https://www.instagram.com/CANUDANCEEE/
+
+/* SITE */
+Built as a custom Next.js experience with WebGL / Three.js / GLSL.
